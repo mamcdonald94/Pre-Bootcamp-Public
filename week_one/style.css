@@ -1,0 +1,51 @@
+* {
+    display: 0;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+h1 /* this is one point of importance */{
+    color: aquamarine;
+    display: block;
+}
+
+#indigo /* this is 100 points of importance */{
+    color: indigo;
+}
+
+.red /* this is 10 points of importance */{
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+#lightblue {
+    background-color: lightblue;
+    /*margin-right: 40px;*/
+    padding-right: 40px;
+}
+
+#brown {
+    background-color: brown;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#main_content {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    justify-content: space-around;
+    align-items: center;
+}

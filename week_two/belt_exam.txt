@@ -1,0 +1,7 @@
+Yellow Belt Exam Tips:
+
+-Very similar to Portfolio Assignment
+-Not given any HTML or CSS
+-Recreate a given photo within 24 hours
+    -given a code, once that code is inputted into the platform that is when the 24 hours begins
+-Has to be completed on the old learn platform
